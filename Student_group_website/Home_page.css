@@ -3,9 +3,9 @@
     padding:0;
 }
 body {
-     background-image: url(фон0.jpg);
-    color:#fff;
-    font:14px/1.3 Arial,sans-serif;
+    background-image: url(Background_1.jpg);
+    color: #fff;
+    font: 14px/1.3 Arial,sans-serif;
 }
 .container {
     background:#ddd;
@@ -29,7 +29,7 @@ h1 {
 }
 .title {
     margin-top: 0px;
-    background-image: url(фон1.png);
+    background-image: url(Background_2.png);
     text-align: center;
 }
 .obzor {

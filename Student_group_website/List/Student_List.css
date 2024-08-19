@@ -2,12 +2,12 @@ a {
     text-decoration: none; 
 	
    }
-   h4{
-	   background-image: url(фон1.png);
-   }
-   body{
-	     background-image: url(фон0.jpg);
-   }
+h4 {
+    background-image: url(Background_2.png);
+}
+body {
+    background-image: url(Background_1.jpg);
+}
 .container {
     background: #ddd;
     margin:20px auto;
