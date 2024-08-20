@@ -1,0 +1,15 @@
+.container {
+    background:#ddd;
+    margin:20px auto;
+    padding:20px;
+    position:relative;
+    width:700px;
+
+    border-radius:5px;
+    -moz-border-radius:5px;
+    -webkit-border-radius:5px;
+
+    box-shadow:1px 1px 5px #111;
+    -moz-box-shadow:1px 1px 5px #111;
+    -webkit-box-shadow:1px 1px 5px #111;
+}
